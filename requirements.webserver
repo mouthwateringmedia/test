@@ -1,0 +1,10 @@
+nginx
+uwsgi
+uwsgi-plugin-python
+#unixodbc
+#unixodbc-bin
+#unixodbc-dev
+#libstdc++5
+sqsh
+freetds-bin
+freetds-dev
